@@ -12,6 +12,6 @@ poetry env use "C:\Users\Artem\AppData\Local\Programs\Python\Python310-32\python
  
 ### Запуск
 ```console
-poetry update
+poetry install
 poetry run python dm3058/main.py
 ```
